@@ -1,3 +1,6 @@
 [submodule "themes"]
 	path = themes
 	url = git@github.com:raphael0io/bethebestyou-theme-hugo
+[submodule "themes/bethebestyou-theme-hugo"]
+	path = themes/bethebestyou-theme-hugo
+	url = git@github.com:raphael0io/bethebestyou-theme-hugo
